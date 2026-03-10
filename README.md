@@ -1,6 +1,6 @@
-# MONS v1.0.0 — Data Repository (internal)
+# MONS v1.0.0 — Data Repository
 
-Internal companion repository for MONS v1.0.0 that hosts large data files.
+Companion repository for MONS v1.0.0 that hosts large data files.
 
 ## Contents
 
